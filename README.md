@@ -75,6 +75,48 @@ The dataset includes the following attributes:
 ---
 
 ## 🖼 Dashboard Preview
-_Add screenshots of your dashboard here_
 
-Example:
+<img width="1470" height="493" alt="dashboard png" src="https://github.com/user-attachments/assets/150d3e1d-b722-4d9e-a264-ad91bd111b29" />
+
+
+---
+
+## 🚀 Outcome
+The project delivers a visually appealing and interactive sales dashboard that simplifies complex data and enables faster decision-making. It demonstrates the ability to analyze real-world data and communicate insights effectively.
+
+---
+
+## 📚 Skills Gained
+- Data Analysis & Interpretation  
+- Data Visualization & Storytelling  
+- Business Intelligence Basics  
+- Excel Dashboard Development  
+- Analytical & Critical Thinking  
+
+---
+
+## 🔮 Future Enhancements
+- Recreate the dashboard using **Power BI**  
+- Perform advanced analysis using **Python (Pandas, Matplotlib)**  
+- Store and query data using **SQL**  
+- Apply **Machine Learning models** for sales forecasting  
+- Build a complete end-to-end analytics pipeline  
+
+---
+
+## 📎 How to Use
+1. Download the Excel file from this repository  
+2. Open it using Microsoft Excel  
+3. Use slicers and filters to interact with the dashboard  
+
+---
+
+## 👩‍💻 Author
+**Afrin Banu**  
+AI & Data Science Student  
+
+---
+
+## ⭐ Acknowledgment
+This project was developed as a mini project to strengthen data analytics and visualization fundamentals using Excel.
+
