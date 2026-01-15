@@ -1,2 +1,80 @@
 # Data-Analysis-Dashboard
 This project focuses on analyzing sales data and developing an interactive dashboard using Microsoft Excel to visualize key business performance metrics. The objective is to transform raw sales data into meaningful insights that support data-driven decision-making.
+# 📊 Sales Data Analysis & Interactive Dashboard using Excel
+
+## 📌 Project Overview
+This project focuses on analyzing sales data and creating an interactive dashboard using Microsoft Excel. The dashboard transforms raw transactional data into meaningful visual insights, enabling stakeholders to monitor performance, identify trends, and support data-driven business decisions.
+
+This mini project emphasizes strong fundamentals in data analytics, visualization, and business intelligence, which are essential skills for AI & Data Science roles.
+
+---
+
+## 🎯 Objectives
+- Analyze overall sales and profit performance  
+- Compare region-wise and product-wise results  
+- Identify monthly and yearly sales trends  
+- Build an interactive and user-friendly dashboard  
+- Improve analytical and business interpretation skills  
+
+---
+
+## 🗂 Dataset Description
+The dataset includes the following attributes:
+- Order Date  
+- Region  
+- Product Category  
+- Product Name  
+- Sales Amount  
+- Profit  
+- Customer Segment  
+
+**Data Preprocessing:**
+- Removed duplicates  
+- Handled missing values  
+- Standardized formats for dates and numbers  
+
+---
+
+## 🛠 Tools & Technologies Used
+- **Microsoft Excel**
+- Pivot Tables & Pivot Charts  
+- Slicers & Timelines  
+- Advanced Excel Functions:
+  - `SUMIFS`
+  - `IF`
+  - `VLOOKUP / XLOOKUP`
+- Conditional Formatting  
+
+---
+
+## 📈 Dashboard Features
+- 📌 KPI Cards: Total Sales, Total Profit  
+- 🌍 Region-wise Sales & Profit Analysis  
+- 📦 Product Category Performance Comparison  
+- 📆 Time-Series Trend Analysis (Monthly / Yearly)  
+- 🔍 Interactive filtering using slicers  
+
+---
+
+## 🧭 Project Workflow
+1. Data Collection  
+2. Data Cleaning & Preparation  
+3. Exploratory Data Analysis (EDA)  
+4. Pivot Table Creation  
+5. Dashboard Design & Layout  
+6. Insight Generation  
+
+---
+
+## 📊 Key Insights
+- Identified top-performing regions and products  
+- Observed seasonal sales trends  
+- Highlighted underperforming categories  
+- Enabled quick comparison through interactive filters  
+
+---
+
+## 🖼 Dashboard Preview
+_Add screenshots of your dashboard here_
+
+Example:
